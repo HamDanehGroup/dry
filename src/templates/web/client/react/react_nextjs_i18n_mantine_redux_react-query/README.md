@@ -1,4 +1,4 @@
-# Web Client Template : Next.js + i18n + Mantine + Redux + React-Query
+# Web Client Template : React + Next.js + i18n + Mantine + Redux + React-Query
 
 ## Setting Up the Project
 
