@@ -1,0 +1,22 @@
+{
+  "name": "dry",
+  "version": "0.1.0",
+  "description": "entities to dry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamDanehGroup/dry.git"
+  },
+  "keywords": [
+    "components"
+  ],
+  "author": "HamDanehGroup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamDanehGroup/dry/issues"
+  },
+  "homepage": "https://github.com/HamDanehGroup/dry#readme"
+}
